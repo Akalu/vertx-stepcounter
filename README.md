@@ -15,11 +15,11 @@ Demonstrates the using of the following technologies:
 
 public api:
 
-| Method | Endpoint                   |Secure|      Description                               |
-|--------|----------------------------|------|------------------------------------------------|
-|GET     |  /deviceId/total           |  No  |    value of counter for specific device        |
-|GET     |  /deviceId/year/month      |  No  |    value of counter for specific month         |
-|GET     |  /deviceId/year/month/day  |  No  |    value of counter for specific day           |
+| Method | Endpoint                   |Secure|      Description                                  |
+|--------|----------------------------|------|---------------------------------------------------|
+|GET     |  /deviceId/total           |  No  |    value of counter for specific device           |
+|GET     |  /deviceId/year/month      |  No  |    value of counter for specific month on device  |
+|GET     |  /deviceId/year/month/day  |  No  |    value of counter for specific day on device    |
 
 
 Building
