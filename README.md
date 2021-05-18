@@ -1,4 +1,4 @@
-image:https://img.shields.io/badge/vert.x-4.0.3-purple.svg[link="https://vertx.io"]
+[![Generic badge](https://img.shields.io/badge/vert.x-4.0.3-purple.svg)[https://vertx.io]
 
 About
 ======
@@ -12,6 +12,14 @@ Demonstrates the using of the following technologies:
 * Exposing public end points to access the data saved in the database
 
 * Test containers for integration tests 
+
+public api:
+
+| Method | Endpoint                   |Secure|      Description                               |
+|--------|----------------------------|------|------------------------------------------------|
+|GET     |  /deviceId/total           |  No  |    value of counter for specific device        |
+|GET     |  /deviceId/year/month      |  No  |    value of counter for specific month         |
+|GET     |  /deviceId/year/month/day  |  No  |    value of counter for specific day           |
 
 
 Building
@@ -51,8 +59,8 @@ Reference
 ==========
 
 
-* https://vertx.io/docs/[Vert.x Documentation]
-* https://stackoverflow.com/questions/tagged/vert.x?sort=newest&pageSize=15[Vert.x Stack Overflow]
-* http://start.vertx.io[Vert.x Initialzr]
+* (https://vertx.io/docs/)[Vert.x Documentation]
+* (https://stackoverflow.com/questions/tagged/vert.x?sort=newest&pageSize=15)[Vert.x Stack Overflow]
+* (http://start.vertx.io)[Vert.x Initializr]
 
 
