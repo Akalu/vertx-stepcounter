@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/vert.x-4.0.3-purple.svg)[https://vertx.io]
+[![Generic badge](https://img.shields.io/badge/vert.x-4.0.3-purple.svg)](https://vertx.io)
 
 About
 ======
@@ -59,8 +59,8 @@ Reference
 ==========
 
 
-* (https://vertx.io/docs/)[Vert.x Documentation]
-* (https://stackoverflow.com/questions/tagged/vert.x?sort=newest&pageSize=15)[Vert.x Stack Overflow]
-* (http://start.vertx.io)[Vert.x Initializr]
+* [Vert.x Documentation](https://vertx.io/docs/)
+* [Vert.x Stack Overflow](https://stackoverflow.com/questions/tagged/vert.x?sort=newest&pageSize=15)
+* [Vert.x Initializr](http://start.vertx.io)
 
 
